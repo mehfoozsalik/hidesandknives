@@ -1,0 +1,364 @@
+{
+    "data": [
+        {
+            "name": "Mini CrossBody Tote",
+            "id": 1,
+            "category": "Hand BAG",
+            "subcategory": "",
+            "price": 123.99,
+            "oldprice": 139.99,
+            "coverImage": "/assets/images/products/1.png",
+            "images": [
+                {
+                    "img": "/assets/images/products/1.png"
+                },
+                {
+                    "img": "/assets/images/products/1.png"
+                },
+                {
+                    "img": "/assets/images/products/1.png"
+                },
+                {
+                    "img": "/assets/images/products/1.png"
+                }
+            ],
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nibh vulputate arcu in arcu, ut sit tellus. In eget consectetur faucibus phasellus. Hendrerit quis amet, suspendisse consectetur sapien, in. Eu aliquet porttitor aliquam sit nunc sit fames sit pellentesque. Dictumst malesuada ultricies nulla malesuada aliquet laoreet vel ut ut. Et accumsan consequat aliquet duis ac faucibus auctor.Feugiat adipiscing lacus dui vestibulum maecenas sit massa porttitor laoreet. Pellentesque in vel, aliquet nunc purus cras magna egestas. Ornare bibendum felis odio urna, gravida. Egestas orci magna elementum viverra. Quis hendrerit amet tellus sit consectetur urna, at.",
+            "specifications": {
+                "weight": "240g",
+                "dimensions": {
+                    "long": 12,
+                    "width": 123,
+                    "height": 1234
+                },
+                "color": "blue",
+                "size": 1234
+            },
+            "reviews": [
+                {
+                    "user": {
+                        "name": "john snow",
+                        "avatar": "image here"
+                    },
+                    "commentDate": "12 sep 2020",
+                    "comment": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nibh vulputate arcu in arcu, ut sit tellus. In eget consectetur faucibus phasellus. Hendrerit quis amet, suspendisse consectetur sapien, in. Eu aliquet porttitor aliquam sit nunc sit fames sit pellentesque. Dictumst malesuada ultricies nulla malesuada aliquet laoreet vel ut ut. Et accumsan consequat aliquet duis ac faucibus auctor.",
+                    "review": 123
+                },
+                {
+                    "user": {
+                        "name": "john snow",
+                        "avatar": "image here"
+                    },
+                    "commentDate": "12 sep 2020",
+                    "comment": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nibh vulputate arcu in arcu, ut sit tellus. In eget consectetur faucibus phasellus. Hendrerit quis amet, suspendisse consectetur sapien, in. Eu aliquet porttitor aliquam sit nunc sit fames sit pellentesque. Dictumst malesuada ultricies nulla malesuada aliquet laoreet vel ut ut. Et accumsan consequat aliquet duis ac faucibus auctor.",
+                    "review": 123
+                },
+                {
+                    "user": {
+                        "name": "john snow",
+                        "avatar": "image here"
+                    },
+                    "commentDate": "12 sep 2020",
+                    "comment": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nibh vulputate arcu in arcu, ut sit tellus. In eget consectetur faucibus phasellus. Hendrerit quis amet, suspendisse consectetur sapien, in. Eu aliquet porttitor aliquam sit nunc sit fames sit pellentesque. Dictumst malesuada ultricies nulla malesuada aliquet laoreet vel ut ut. Et accumsan consequat aliquet duis ac faucibus auctor.",
+                    "review": 123
+                },
+                {
+                    "user": {
+                        "name": "john snow",
+                        "avatar": "image here"
+                    },
+                    "commentDate": "12 sep 2020",
+                    "comment": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nibh vulputate arcu in arcu, ut sit tellus. In eget consectetur faucibus phasellus. Hendrerit quis amet, suspendisse consectetur sapien, in. Eu aliquet porttitor aliquam sit nunc sit fames sit pellentesque. Dictumst malesuada ultricies nulla malesuada aliquet laoreet vel ut ut. Et accumsan consequat aliquet duis ac faucibus auctor.",
+                    "review": 123
+                }
+            ]
+        },
+        {
+            "name": "The Luna Bag",
+            "id": 2,
+            "category": "Hand BAG",
+            "subcategory": "",
+            "price": 123.99,
+            "oldprice": 139.99,
+            "coverImage": "/assets/images/products/2.png",
+            "images": [
+                {
+                    "img": "/assets/images/products/2.png"
+                },
+                {
+                    "img": "/assets/images/products/2.png"
+                },
+                {
+                    "img": "/assets/images/products/2.png"
+                },
+                {
+                    "img": "/assets/images/products/2.png"
+                }
+            ],
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nibh vulputate arcu in arcu, ut sit tellus. In eget consectetur faucibus phasellus. Hendrerit quis amet, suspendisse consectetur sapien, in. Eu aliquet porttitor aliquam sit nunc sit fames sit pellentesque. Dictumst malesuada ultricies nulla malesuada aliquet laoreet vel ut ut. Et accumsan consequat aliquet duis ac faucibus auctor.Feugiat adipiscing lacus dui vestibulum maecenas sit massa porttitor laoreet. Pellentesque in vel, aliquet nunc purus cras magna egestas. Ornare bibendum felis odio urna, gravida. Egestas orci magna elementum viverra. Quis hendrerit amet tellus sit consectetur urna, at.",
+            "specifications": {
+                "weight": "240g",
+                "dimensions": {
+                    "long": 12,
+                    "width": 123,
+                    "height": 1234
+                },
+                "color": "blue",
+                "size": 1234
+            },
+            "reviews": [
+                {
+                    "user": {
+                        "name": "john snow",
+                        "avatar": "image here"
+                    },
+                    "commentDate": "12 sep 2020",
+                    "comment": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nibh vulputate arcu in arcu, ut sit tellus. In eget consectetur faucibus phasellus. Hendrerit quis amet, suspendisse consectetur sapien, in. Eu aliquet porttitor aliquam sit nunc sit fames sit pellentesque. Dictumst malesuada ultricies nulla malesuada aliquet laoreet vel ut ut. Et accumsan consequat aliquet duis ac faucibus auctor.",
+                    "review": 123
+                },
+                {
+                    "user": {
+                        "name": "john snow",
+                        "avatar": "image here"
+                    },
+                    "commentDate": "12 sep 2020",
+                    "comment": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nibh vulputate arcu in arcu, ut sit tellus. In eget consectetur faucibus phasellus. Hendrerit quis amet, suspendisse consectetur sapien, in. Eu aliquet porttitor aliquam sit nunc sit fames sit pellentesque. Dictumst malesuada ultricies nulla malesuada aliquet laoreet vel ut ut. Et accumsan consequat aliquet duis ac faucibus auctor.",
+                    "review": 123
+                },
+                {
+                    "user": {
+                        "name": "john snow",
+                        "avatar": "image here"
+                    },
+                    "commentDate": "12 sep 2020",
+                    "comment": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nibh vulputate arcu in arcu, ut sit tellus. In eget consectetur faucibus phasellus. Hendrerit quis amet, suspendisse consectetur sapien, in. Eu aliquet porttitor aliquam sit nunc sit fames sit pellentesque. Dictumst malesuada ultricies nulla malesuada aliquet laoreet vel ut ut. Et accumsan consequat aliquet duis ac faucibus auctor.",
+                    "review": 123
+                },
+                {
+                    "user": {
+                        "name": "john snow",
+                        "avatar": "image here"
+                    },
+                    "commentDate": "12 sep 2020",
+                    "comment": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nibh vulputate arcu in arcu, ut sit tellus. In eget consectetur faucibus phasellus. Hendrerit quis amet, suspendisse consectetur sapien, in. Eu aliquet porttitor aliquam sit nunc sit fames sit pellentesque. Dictumst malesuada ultricies nulla malesuada aliquet laoreet vel ut ut. Et accumsan consequat aliquet duis ac faucibus auctor.",
+                    "review": 123
+                }
+            ]
+        },
+        {
+            "name": "The Luna Bag",
+            "id": 2,
+            "category": "Hand BAG",
+            "subcategory": "",
+            "price": 123.99,
+            "oldprice": 139.99,
+            "coverImage": "/assets/images/products/3.png",
+            "images": [
+                {
+                    "img": "/assets/images/products/3.png"
+                },
+                {
+                    "img": "/assets/images/products/3.png"
+                },
+                {
+                    "img": "/assets/images/products/3.png"
+                },
+                {
+                    "img": "/assets/images/products/3.png"
+                }
+            ],
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nibh vulputate arcu in arcu, ut sit tellus. In eget consectetur faucibus phasellus. Hendrerit quis amet, suspendisse consectetur sapien, in. Eu aliquet porttitor aliquam sit nunc sit fames sit pellentesque. Dictumst malesuada ultricies nulla malesuada aliquet laoreet vel ut ut. Et accumsan consequat aliquet duis ac faucibus auctor.Feugiat adipiscing lacus dui vestibulum maecenas sit massa porttitor laoreet. Pellentesque in vel, aliquet nunc purus cras magna egestas. Ornare bibendum felis odio urna, gravida. Egestas orci magna elementum viverra. Quis hendrerit amet tellus sit consectetur urna, at.",
+            "specifications": {
+                "weight": "240g",
+                "dimensions": {
+                    "long": 12,
+                    "width": 123,
+                    "height": 1234
+                },
+                "color": "blue",
+                "size": 1234
+            },
+            "reviews": [
+                {
+                    "user": {
+                        "name": "john snow",
+                        "avatar": "image here"
+                    },
+                    "commentDate": "12 sep 2020",
+                    "comment": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nibh vulputate arcu in arcu, ut sit tellus. In eget consectetur faucibus phasellus. Hendrerit quis amet, suspendisse consectetur sapien, in. Eu aliquet porttitor aliquam sit nunc sit fames sit pellentesque. Dictumst malesuada ultricies nulla malesuada aliquet laoreet vel ut ut. Et accumsan consequat aliquet duis ac faucibus auctor.",
+                    "review": 123
+                },
+                {
+                    "user": {
+                        "name": "john snow",
+                        "avatar": "image here"
+                    },
+                    "commentDate": "12 sep 2020",
+                    "comment": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nibh vulputate arcu in arcu, ut sit tellus. In eget consectetur faucibus phasellus. Hendrerit quis amet, suspendisse consectetur sapien, in. Eu aliquet porttitor aliquam sit nunc sit fames sit pellentesque. Dictumst malesuada ultricies nulla malesuada aliquet laoreet vel ut ut. Et accumsan consequat aliquet duis ac faucibus auctor.",
+                    "review": 123
+                },
+                {
+                    "user": {
+                        "name": "john snow",
+                        "avatar": "image here"
+                    },
+                    "commentDate": "12 sep 2020",
+                    "comment": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nibh vulputate arcu in arcu, ut sit tellus. In eget consectetur faucibus phasellus. Hendrerit quis amet, suspendisse consectetur sapien, in. Eu aliquet porttitor aliquam sit nunc sit fames sit pellentesque. Dictumst malesuada ultricies nulla malesuada aliquet laoreet vel ut ut. Et accumsan consequat aliquet duis ac faucibus auctor.",
+                    "review": 123
+                },
+                {
+                    "user": {
+                        "name": "john snow",
+                        "avatar": "image here"
+                    },
+                    "commentDate": "12 sep 2020",
+                    "comment": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nibh vulputate arcu in arcu, ut sit tellus. In eget consectetur faucibus phasellus. Hendrerit quis amet, suspendisse consectetur sapien, in. Eu aliquet porttitor aliquam sit nunc sit fames sit pellentesque. Dictumst malesuada ultricies nulla malesuada aliquet laoreet vel ut ut. Et accumsan consequat aliquet duis ac faucibus auctor.",
+                    "review": 123
+                }
+            ]
+        },
+        {
+            "name": "The Luna Bag",
+            "id": 2,
+            "category": "Hand BAG",
+            "subcategory": "",
+            "price": 123.99,
+            "oldprice": 139.99,
+            "coverImage": "/assets/images/products/4.png",
+            "images": [
+                {
+                    "img": "/assets/images/products/4.png"
+                },
+                {
+                    "img": "/assets/images/products/4.png"
+                },
+                {
+                    "img": "/assets/images/products/4.png"
+                },
+                {
+                    "img": "/assets/images/products/4.png"
+                }
+            ],
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nibh vulputate arcu in arcu, ut sit tellus. In eget consectetur faucibus phasellus. Hendrerit quis amet, suspendisse consectetur sapien, in. Eu aliquet porttitor aliquam sit nunc sit fames sit pellentesque. Dictumst malesuada ultricies nulla malesuada aliquet laoreet vel ut ut. Et accumsan consequat aliquet duis ac faucibus auctor.Feugiat adipiscing lacus dui vestibulum maecenas sit massa porttitor laoreet. Pellentesque in vel, aliquet nunc purus cras magna egestas. Ornare bibendum felis odio urna, gravida. Egestas orci magna elementum viverra. Quis hendrerit amet tellus sit consectetur urna, at.",
+            "specifications": {
+                "weight": "240g",
+                "dimensions": {
+                    "long": 12,
+                    "width": 123,
+                    "height": 1234
+                },
+                "color": "blue",
+                "size": 1234
+            },
+            "reviews": [
+                {
+                    "user": {
+                        "name": "john snow",
+                        "avatar": "image here"
+                    },
+                    "commentDate": "12 sep 2020",
+                    "comment": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nibh vulputate arcu in arcu, ut sit tellus. In eget consectetur faucibus phasellus. Hendrerit quis amet, suspendisse consectetur sapien, in. Eu aliquet porttitor aliquam sit nunc sit fames sit pellentesque. Dictumst malesuada ultricies nulla malesuada aliquet laoreet vel ut ut. Et accumsan consequat aliquet duis ac faucibus auctor.",
+                    "review": 123
+                },
+                {
+                    "user": {
+                        "name": "john snow",
+                        "avatar": "image here"
+                    },
+                    "commentDate": "12 sep 2020",
+                    "comment": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nibh vulputate arcu in arcu, ut sit tellus. In eget consectetur faucibus phasellus. Hendrerit quis amet, suspendisse consectetur sapien, in. Eu aliquet porttitor aliquam sit nunc sit fames sit pellentesque. Dictumst malesuada ultricies nulla malesuada aliquet laoreet vel ut ut. Et accumsan consequat aliquet duis ac faucibus auctor.",
+                    "review": 123
+                },
+                {
+                    "user": {
+                        "name": "john snow",
+                        "avatar": "image here"
+                    },
+                    "commentDate": "12 sep 2020",
+                    "comment": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nibh vulputate arcu in arcu, ut sit tellus. In eget consectetur faucibus phasellus. Hendrerit quis amet, suspendisse consectetur sapien, in. Eu aliquet porttitor aliquam sit nunc sit fames sit pellentesque. Dictumst malesuada ultricies nulla malesuada aliquet laoreet vel ut ut. Et accumsan consequat aliquet duis ac faucibus auctor.",
+                    "review": 123
+                },
+                {
+                    "user": {
+                        "name": "john snow",
+                        "avatar": "image here"
+                    },
+                    "commentDate": "12 sep 2020",
+                    "comment": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nibh vulputate arcu in arcu, ut sit tellus. In eget consectetur faucibus phasellus. Hendrerit quis amet, suspendisse consectetur sapien, in. Eu aliquet porttitor aliquam sit nunc sit fames sit pellentesque. Dictumst malesuada ultricies nulla malesuada aliquet laoreet vel ut ut. Et accumsan consequat aliquet duis ac faucibus auctor.",
+                    "review": 123
+                }
+            ]
+        },
+        {
+            "name": "The Luna Bag",
+            "id": 2,
+            "category": "Hand BAG",
+            "subcategory": "",
+            "price": 123.99,
+            "oldprice": 139.99,
+            "coverImage": "/assets/images/products/5.png",
+            "images": [
+                {
+                    "img": "/assets/images/products/5.png"
+                },
+                {
+                    "img": "/assets/images/products/5.png"
+                },
+                {
+                    "img": "/assets/images/products/5.png"
+                },
+                {
+                    "img": "/assets/images/products/5.png"
+                }
+            ],
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nibh vulputate arcu in arcu, ut sit tellus. In eget consectetur faucibus phasellus. Hendrerit quis amet, suspendisse consectetur sapien, in. Eu aliquet porttitor aliquam sit nunc sit fames sit pellentesque. Dictumst malesuada ultricies nulla malesuada aliquet laoreet vel ut ut. Et accumsan consequat aliquet duis ac faucibus auctor.Feugiat adipiscing lacus dui vestibulum maecenas sit massa porttitor laoreet. Pellentesque in vel, aliquet nunc purus cras magna egestas. Ornare bibendum felis odio urna, gravida. Egestas orci magna elementum viverra. Quis hendrerit amet tellus sit consectetur urna, at.",
+            "specifications": {
+                "weight": "240g",
+                "dimensions": {
+                    "long": 12,
+                    "width": 123,
+                    "height": 1234
+                },
+                "color": "blue",
+                "size": 1234
+            },
+            "reviews": [
+                {
+                    "user": {
+                        "name": "john snow",
+                        "avatar": "image here"
+                    },
+                    "commentDate": "12 sep 2020",
+                    "comment": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nibh vulputate arcu in arcu, ut sit tellus. In eget consectetur faucibus phasellus. Hendrerit quis amet, suspendisse consectetur sapien, in. Eu aliquet porttitor aliquam sit nunc sit fames sit pellentesque. Dictumst malesuada ultricies nulla malesuada aliquet laoreet vel ut ut. Et accumsan consequat aliquet duis ac faucibus auctor.",
+                    "review": 123
+                },
+                {
+                    "user": {
+                        "name": "john snow",
+                        "avatar": "image here"
+                    },
+                    "commentDate": "12 sep 2020",
+                    "comment": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nibh vulputate arcu in arcu, ut sit tellus. In eget consectetur faucibus phasellus. Hendrerit quis amet, suspendisse consectetur sapien, in. Eu aliquet porttitor aliquam sit nunc sit fames sit pellentesque. Dictumst malesuada ultricies nulla malesuada aliquet laoreet vel ut ut. Et accumsan consequat aliquet duis ac faucibus auctor.",
+                    "review": 123
+                },
+                {
+                    "user": {
+                        "name": "john snow",
+                        "avatar": "image here"
+                    },
+                    "commentDate": "12 sep 2020",
+                    "comment": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nibh vulputate arcu in arcu, ut sit tellus. In eget consectetur faucibus phasellus. Hendrerit quis amet, suspendisse consectetur sapien, in. Eu aliquet porttitor aliquam sit nunc sit fames sit pellentesque. Dictumst malesuada ultricies nulla malesuada aliquet laoreet vel ut ut. Et accumsan consequat aliquet duis ac faucibus auctor.",
+                    "review": 123
+                },
+                {
+                    "user": {
+                        "name": "john snow",
+                        "avatar": "image here"
+                    },
+                    "commentDate": "12 sep 2020",
+                    "comment": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nibh vulputate arcu in arcu, ut sit tellus. In eget consectetur faucibus phasellus. Hendrerit quis amet, suspendisse consectetur sapien, in. Eu aliquet porttitor aliquam sit nunc sit fames sit pellentesque. Dictumst malesuada ultricies nulla malesuada aliquet laoreet vel ut ut. Et accumsan consequat aliquet duis ac faucibus auctor.",
+                    "review": 123
+                }
+            ]
+        }
+    ]
+}

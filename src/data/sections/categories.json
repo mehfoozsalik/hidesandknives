@@ -1,0 +1,36 @@
+{
+  "one": [
+    {
+      "image": {
+        "background": "LS",
+        "main": "/assets/images/sections/category/one/1.png"
+      },
+      "title": "Leather Straps",
+      "quantity": 12
+    },
+    {
+      "image": {
+        "background": "DS",
+        "main": "/assets/images/sections/category/one/2.png"
+      },
+      "title": "Decorative Snaps",
+      "quantity": 8
+    },
+    {
+      "image": {
+        "background": "DP",
+        "main": "/assets/images/sections/category/one/3.png"
+      },
+      "title": "Drawer Pulls",
+      "quantity": 2
+    },
+    {
+      "image": {
+        "background": "P",
+        "main": "/assets/images/sections/category/one/4.png"
+      },
+      "title": "Patches",
+      "quantity": 10
+    }
+  ]
+}

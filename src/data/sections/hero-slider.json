@@ -1,0 +1,36 @@
+{
+  "one": [
+    {
+      "background": "/assets/images/hero-slider/one/bg-1.png",
+      "subTitle": "Fruit Fresh",
+      "title": "Orange Lemon",
+      "price": {
+        "main": "14",
+        "unit": "pakage"
+      }
+    },
+    {
+      "background": "/assets/images/hero-slider/one/bg-2.png",
+      "subTitle": "Butter & Eggs",
+      "title": "Spice 100% Oganic",
+      "price": {
+        "main": "16",
+        "unit": "pakage"
+      }
+    }
+  ],
+  "four": [
+    {
+      "title": "Oh. So. Professional",
+      "Subtitle": "Full of mights available for men",
+      "background": "/assets/images/hero-slider/four/bg-1.png",
+      "linkto": ""
+    },
+    {
+      "title": "Wow Thats New",
+      "Subtitle": "Made well and So Unique.",
+      "background": "/assets/images/hero-slider/four/bg-2.png",
+      "linkto": ""
+    }
+  ]
+}

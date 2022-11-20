@@ -1,0 +1,52 @@
+$root-color: (
+  Primary-Dark: #0F2016,
+  Primary: #465D53,
+  secondary-dark: #2E1C09,
+  secondary: #DF5000,
+  secondary-light: #70A692,
+  Annotation: #0083CD,
+  Annotation-light: #D8EAF4,
+);
+
+$colors: (
+  pd: #0F2016,
+  pp:  #465D53,
+  sd: #2E1C09,
+  ss: #DF5000,
+  sl: #70A692,
+  aa: #0083CD,
+  al: #D8EAF4,
+  );
+  
+$shades: (
+  dark: #252525,
+  medium: #636363,
+  regular: #b2b2b2,
+  light: #ebebeb,
+  border: #f5f5f5,
+);
+
+$rem-baseline: 16;
+$transition: 0.2s ease-in-out;
+$prefixes: (webkit, moz, ms, o);
+
+$container: 1170px;
+$container-fluid: 1800px;
+$section-spacing: remCal(60);
+
+$breakpoint: (
+  sm: "576px",
+  md: "768px",
+  lg: "992px",
+  xl: "1200px",
+  xxl: "1400px",
+  xxxl: "1600px",
+);
+
+$font-weight: (
+  300: "Visby Light",
+  400: "Visby Regular",
+  500: "Visby Medium",
+  600: "Visby Bold",
+  700: "Visby Black",
+);

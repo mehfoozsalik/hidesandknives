@@ -1,0 +1,45 @@
+
+
+
+
+
+
+@font-face {
+  font-family: "Visby Light";
+  src: url("/visbyfonts/VisbyCF-Light.otf");
+  src: url("/visbyfonts/VisbyCF-Light.otf") format("embedded-opentype"),
+    url("/visbyfonts/VisbyCF-Light.otf") format("woff"),
+    url("/visbyfonts/VisbyCF-Light.otf") format("truetype");
+}
+
+@font-face {
+  font-family: "Visby Medium";
+  src: url("/visbyfonts/VisbyCF-Medium.otf");
+  src: url("/visbyfonts/VisbyCF-Medium.otf") format("embedded-opentype"),
+    url("/visbyfonts/VisbyCF-Medium.otf") format("woff"),
+    url("/visbyfonts/VisbyCF-Medium.otf") format("truetype");
+}
+
+@font-face {
+  font-family: "Visby Regular";
+  src: url("/visbyfonts/VisbyCF-Regular.otf");
+  src: url("/visbyfonts/VisbyCF-Regular.otf") format("embedded-opentype"),
+    url("/visbyfonts/VisbyCF-Regular.otf") format("woff"),
+    url("/visbyfonts/VisbyCF-Regular.otf") format("truetype");
+}
+
+@font-face {
+  font-family: "Visby Bold";
+  src: url("/visbyfonts/VisbyCF-Bold.otf");
+  src: url("/visbyfonts/VisbyCF-Bold.otf") format("embedded-opentype"),
+    url("/visbyfonts/VisbyCF-Bold.otf") format("woff"),
+    url("/visbyfonts/VisbyCF-Bold.otf") format("truetype");
+}
+
+@font-face {
+  font-family: "Visby Black";
+  src: url("/visbyfonts/VisbyCF-ExtraBold.otf");
+  src: url("/visbyfonts/VisbyCF-ExtraBold.otf") format("embedded-opentype"),
+    url("/visbyfonts/VisbyCF-ExtraBold.otf") format("woff"),
+    url("/visbyfonts/VisbyCF-ExtraBold.otf") format("truetype");
+}

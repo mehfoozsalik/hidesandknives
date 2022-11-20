@@ -1,0 +1,21 @@
+.function-items {
+  background: #ffffff;
+  border-radius: 6px;
+  padding: 0.6em 1em;
+  &-item {
+    .icon_bag_alt{
+      font-weight: bolder !important;
+    }
+    @include link($fsz: emCal(16, 20));
+    &:not(:last-child) {
+      margin-right: emCal(20, 15);
+    }
+    &:last-child {
+      span {
+        font-size: emCal(20, 16);
+        font-family: getFontWeight(600);
+        margin-left: emCal(16, 15);
+      }
+    }
+  }
+}
